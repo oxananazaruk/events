@@ -6,6 +6,7 @@
 //   LinkEvent,
 //   TitleName,
 // } from "./EventCard.styled.js";
+// remuved import
 
 import { Link } from "react-router-dom";
 
